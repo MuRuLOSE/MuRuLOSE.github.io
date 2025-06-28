@@ -15,6 +15,7 @@ const translations = {
     loadingModule: 'Loading module {module}... [OK]',
     commandNotFound: 'Command not found: {command}',
     errorExecuting: 'Error executing command: {command}',
+    whoami: '{username}@{hostname}',
     themesList: 'Theme list: tokyo-night dracula solarized-dark solarized-light nord gruvbox-dark gruvbox-light monokai one-dark catppuccin-mocha catpuccin-latte everforest material-dark oceanic-next ayu-dark ayu-mirage horizon-dark palenight tommorow-night default',
     help: `Available commands:
 - help: Show this message
@@ -39,6 +40,7 @@ const translations = {
     loadingModule: 'Загрузка модуля {module}... [OK]',
     commandNotFound: 'Команда не найдена: {command}',
     errorExecuting: 'Ошибка выполнения команды: {command}',
+    whoami: '{username}@{hostname}',
     themesList: 'Список тем: tokyo-night dracula solarized-dark solarized-light nord gruvbox-dark gruvbox-light monokai one-dark catppuccin-mocha catpuccin-latte everforest material-dark oceanic-next ayu-dark ayu-mirage horizon-dark palenight tommorow-night default',
     help: `Доступные команды:
 - help: Показать это сообщение
