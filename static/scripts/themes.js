@@ -210,5 +210,5 @@ window.applyTheme = function(theme) {
 };
 
 window.getCurrentTheme = function() {
-  return localStorage.getItem('theme') || 'tokyo-night';
+  return localStorage.getItem('theme') || 'default';
 };
